@@ -1,0 +1,8 @@
+// JSON stands for JavaScript Object Notation
+{
+	"firstname" : "Krantesh"
+	"lastname" : "Singh"
+	"email" : "krantesh@gmail.com"
+	"mobileNumber" : 7275139737
+}
+
